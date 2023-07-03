@@ -26,20 +26,21 @@ Install at [installation site](https://apps.microsoft.com/store/detail/9N94ZPBTB
 1. Open GithubViewer. 
 
 
-<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/maternity-clinic/main/docs/images/user_33.png" width="1200"/></div>
-.
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/tutoring-work-schedule/main/docs/images/user_33.png" width="1200"/></div>
+
+
 
 2. Press Next until this site comes up.
 
-<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/maternity-clinic/main/docs/images/user_34.png" width="1200"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/maternity-clinic/main/docs/images/user_12.png" width="1200"/></div>
 
 3. Download this project. 
 
-<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/maternity-clinic/main/docs/images/user_35.png" width="1200"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/maternity-clinic/main/docs/images/user_13.png" width="1200"/></div>
 
 4. Name and save the project.
 
-<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/maternity-clinic/main/docs/images/user_36.png" width="1200"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/maternity-clinic/main/docs/images/user_14.png" width="1200"/></div>
 
 5. Press the Solve button.
 
@@ -93,7 +94,7 @@ After going live, changes that may occur monthly are absorbed by the following f
 
 #### Leveling Nights and Lates
 
-<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/maternity-clinic/main/docs/images/user_5.png" width="1200"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/maternity-clinic/main/docs/images/user_6.png" width="1200"/></div>
 
 
 
